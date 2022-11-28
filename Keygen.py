@@ -5,8 +5,6 @@
 
 import random, sys
 
-Flag = "FTF{4a8a08f09d37b73795649038408b5f33}"
-
 class KeyGen():
 	def __init__(self):
 		global i
